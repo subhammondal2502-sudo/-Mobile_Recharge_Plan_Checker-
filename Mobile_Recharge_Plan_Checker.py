@@ -10,7 +10,7 @@ if plan_type=="basic":
         print("plan status : Activated \n validity : 42 days \n Offer : Extra 5GB Data")
     elif amount>=199 :
         print("plan status : Activated \n validity : 28 days \n Offer : Extra 3GB Data")
- else:
+    else:
         print("invalid recharge amount")
 elif plan_type=="standard":
     if amount>=499 :
