@@ -19,3 +19,4 @@ elif plan_type=="standard":
         print("plan status : Activated \n validity : 56 days \n Offer : Extra 6GB Data")
     else:
         print("invalid recharge amount")
+elif plan_type=="premium":
