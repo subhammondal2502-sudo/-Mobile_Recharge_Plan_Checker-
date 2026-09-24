@@ -20,3 +20,4 @@ elif plan_type=="standard":
     else:
         print("invalid recharge amount")
 elif plan_type=="premium":
+if amount>=799 :
