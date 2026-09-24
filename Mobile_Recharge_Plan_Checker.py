@@ -21,3 +21,4 @@ elif plan_type=="standard":
         print("invalid recharge amount")
 elif plan_type=="premium":
 if amount>=799 :
+            print("plan status : Activated \n validity : 100 days \n Offer : Extra 16GB Data")
